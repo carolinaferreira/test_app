@@ -31,7 +31,7 @@ $navbar-default-bg: #222;
     color: #fff;
     text-align: center;
     margin-bottom: 30px;
-    letter-spaceing: -1px;
+    letter-spacing: -1px;
     font-weight: bold;
 }
 
@@ -47,6 +47,17 @@ $navbar-default-bg: #222;
 
 .description {
     margin-top: 0;
+}
+
+.article-title {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.article-body {
+    border-top: 1px solid #eaeaea;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 footer {
